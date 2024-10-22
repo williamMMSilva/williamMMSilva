@@ -45,7 +45,7 @@ Atualmente estou estudando e trabalhando com as seguintes linguagens e tecnologi
 
 ## 🎯 Expectativas Profissionais
 
-Estou em busca de oportunidades na área de desenvolvimento de software, com foco em **desenvolvimento full-stack** ou **engenharia de software**. Estou interessado em trabalhar com tecnologias modernas, em um ambiente colaborativo, onde possa aprender e contribuir com soluções inovadoras.
+Estou em busca de oportunidades na área de desenvolvimento de software. Estou interessado em trabalhar com tecnologias modernas, em um ambiente colaborativo, onde possa aprender e contribuir com soluções inovadoras.
 
 ---
 
